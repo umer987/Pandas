@@ -1,0 +1,26 @@
+OrderID,CustomerID,Gender,Age,City,Product,Category,Price,Quantity,OrderDate,PaymentMethod,Rating,Discount
+1001,C001,Male,22,Karachi,Laptop,Electronics,120000,1,05/01/2025,Credit Card,4,10
+1002,C002,Female,25,Lahore,Headphones,Electronics,5000,2,07/01/2025,Cash,5,5
+1003,C003,Male,30,Islamabad,Shirt,Fashion,2500,3,08/01/2025,Debit Card,3,15
+1004,C004,Female,28,Karachi,Shoes,Fashion,7000,1,09/01/2025,EasyPaisa,4,20
+1005,C005,Male,35,Peshawar,Mobile,Electronics,80000,1,10/01/2025,Credit Card,5,8
+1006,C006,Female,19,Quetta,Bag,Fashion,3000,2,11/01/2025,JazzCash,3,12
+1007,C007,Male,40,Karachi,TV,Electronics,150000,1,12/01/2025,Cash,4,18
+1008,C008,Female,27,Lahore,Watch,Accessories,10000,1,13/01/2025,Debit Card,5,10
+1009,C009,Male,31,Islamabad,Keyboard,Electronics,3500,2,14/01/2025,Credit Card,4,5
+1010,C010,Female,23,Karachi,Makeup Kit,Beauty,4500,1,15/01/2025,EasyPaisa,5,20
+1011,C011,Male,29,Multan,Shoes,Fashion,6500,2,16/01/2025,Cash,3,15
+1012,C012,Female,33,Lahore,Perfume,Beauty,8000,1,17/01/2025,Credit Card,4,10
+1013,C013,Male,26,Karachi,Mouse,Electronics,2000,3,18/01/2025,JazzCash,4,5
+1014,C014,Female,21,Islamabad,Dress,Fashion,9000,1,19/01/2025,Debit Card,5,25
+1015,C015,Male,45,Quetta,Fridge,Appliances,120000,1,20/01/2025,Credit Card,4,12
+1016,C016,Female,38,Peshawar,Oven,Appliances,50000,1,21/01/2025,Cash,3,10
+1017,C017,Male,24,Karachi,T-shirt,Fashion,1500,4,22/01/2025,EasyPaisa,5,5
+1018,C018,Female,29,Lahore,Tablet,Electronics,60000,1,23/01/2025,Credit Card,4,10
+1019,C019,Male,32,Islamabad,Camera,Electronics,95000,1,24/01/2025,Debit Card,5,15
+1020,C020,Female,26,Karachi,Handbag,Accessories,7000,1,25/01/2025,JazzCash,4,18
+1021,C021,Male,34,Multan,Sneakers,Fashion,8500,2,26/01/2025,Cash,3,10
+1022,C022,Female,28,Quetta,Lipstick,Beauty,2000,3,27/01/2025,EasyPaisa,5,20
+1023,C023,Male,41,Karachi,Air Conditioner,Appliances,180000,1,28/01/2025,Credit Card,4,15
+1024,C024,Female,22,Lahore,Scarf,Fashion,1200,2,29/01/2025,Debit Card,4,5
+1025,C025,Male,37,Islamabad,Speaker,Electronics,9000,1,30/01/2025,Cash,5,10
